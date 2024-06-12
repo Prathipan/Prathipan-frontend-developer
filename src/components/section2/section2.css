@@ -1,0 +1,10 @@
+.wrapper {
+  height: 80%;
+  width: 80%;
+}
+
+.sec2-text-gradient {
+  background: linear-gradient(90deg, #facc69 0%, #ff91a5 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

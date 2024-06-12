@@ -1,0 +1,44 @@
+.section7-title {
+  background: -webkit-linear-gradient(#fa75f8, #9e6ee6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 64px;
+  text-align: center;
+}
+
+.typo{
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 64px;
+}
+.phase{
+    padding: 50px;
+}
+
+.phase ul {
+    list-style: inside;
+}
+
+.phase-1 {
+  background: linear-gradient(90deg, #facc69 0%, #fa75f8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+}
+
+.phase-2{
+    background: linear-gradient(90deg, #FF91A5 0%, #FA75F8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.phase-3{
+    background: linear-gradient(90deg, #FA75F8 0%, #9E6EE6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+

@@ -1,0 +1,24 @@
+.avatar-image img{
+    height: 100%;
+    width: 85%;
+}
+
+li:not(:last-child) { 
+    margin-bottom: 20px;  
+ }
+
+ .list li{
+    color : gray
+ }
+
+ .active{
+    background: -webkit-linear-gradient(#5CC3FA, #9E6EE6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ }
+
+ .list li:hover{
+  background: -webkit-linear-gradient(#5CC3FA, #9E6EE6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ }

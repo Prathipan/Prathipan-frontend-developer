@@ -1,0 +1,22 @@
+.footer{
+    height: 50vh;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(92, 195, 250, 0.28) 0%, rgba(92, 195, 250, 0) 100%);
+}
+
+
+.footer-text {
+  background: radial-gradient(
+    61.42% 1213.78% at 18.1% 57.03%,
+    #ffffff 0%,
+    rgba(255, 255, 255, 0.6) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.submit-btn{
+    height: 100%;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
